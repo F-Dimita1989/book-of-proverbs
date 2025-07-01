@@ -1,1 +1,1 @@
-# book-of-proverbs
+Libro di raccolta proverbi.
